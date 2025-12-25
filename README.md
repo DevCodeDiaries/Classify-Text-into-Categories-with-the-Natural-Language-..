@@ -17,9 +17,9 @@
 ## ☁️ Run in Google Cloud Shell
 
 ```bash
-curl -LO raw.githubusercontent.com/DevCodeDiaries/Arcade-Google-Cloud-Labs/refs/heads/main/Classify%20Text%20into%20Categories%20with%20the%20Natural%20Language%20API/DevCodeDiaries.sh
-sudo chmod +x DevCodeDiaries.sh
-./DevCodeDiaries.sh
+curl -LO raw.githubusercontent.com/prateekrajput08/Arcade-Google-Cloud-Labs/refs/heads/main/Classify%20Text%20into%20Categories%20with%20the%20Natural%20Language%20API/TechCode.sh
+sudo chmod +x TechCode.sh
+./TechCode.sh
 ```
 ## 🎉 Congratulations! Lab Completed Successfully! 🏆
 
