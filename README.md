@@ -1,4 +1,3 @@
-# Classify-Text-into-Categories-with-the-Natural-Language-..
 # 🌐 Classify Text into Categories with the Natural Language API || GSP063 🚀  
 [![Open Lab](https://img.shields.io/badge/Open-Lab-blue?style=flat)](https://www.cloudskillsboost.google/games/6551/labs/41064)
 
@@ -26,7 +25,6 @@ sudo chmod +x DevCodeDiaries.sh
 
 You have successfully completed the **Classify Text into Categories with the Natural Language API (GSP063)** lab using Google Cloud.
 
----
 ---
 
 ## 📌 Notes
